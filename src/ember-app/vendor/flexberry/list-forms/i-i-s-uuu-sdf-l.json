@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-uuu-sdf-e",
+  "editForm": "i-i-s-uuu-sdf-e",
+  "external": false,
+  "caption": "Sdf",
+  "name": "IISUuuSdfL",
+  "className": "SdfL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-uuu-sdf",
+      "modelProjection": "SdfL"
+    }
+  ]
+}

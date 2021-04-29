@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Sdf",
+  "name": "IISUuuSdfE",
+  "className": "SdfE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-uuu-sdf",
+      "modelProjection": "SdfE"
+    }
+  ]
+}

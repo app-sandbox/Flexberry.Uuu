@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Uuu",
+  "applicationTitle": "Uuu",
+  "items": [
+    {
+      "link": null,
+      "menuName": "uuu",
+      "caption": "Uuu",
+      "title": "Uuu",
+      "children": [
+        {
+          "link": "i-i-s-uuu-sdf-l",
+          "menuName": null,
+          "caption": "Sdf",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

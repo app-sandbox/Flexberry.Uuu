@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISUuuSdf",
+  "modelName": "i-i-s-uuu-sdf",
+  "className": "Sdf",
+  "nameSpace": "IIS.Uuu",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "adf",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "SdfE",
+      "modelName": "i-i-s-uuu-sdf",
+      "attrs": [
+        {
+          "name": "adf",
+          "caption": "Adf",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "SdfL",
+      "modelName": "i-i-s-uuu-sdf",
+      "attrs": [
+        {
+          "name": "adf",
+          "caption": "Adf",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
